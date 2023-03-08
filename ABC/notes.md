@@ -2,9 +2,9 @@
 
 ## 排序
     
-    冒泡排序 bubble sort
+冒泡排序 bubble sort
 
-    快速排序 quick sort
+    -- 快速排序 quick sort
 
     希尔排序 shell sort
 
