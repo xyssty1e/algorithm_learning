@@ -1,4 +1,4 @@
-<!-- TOC -->
+<!-- TOC depthFrom:2 depthTo:4 -->
 
 - [markdown语法学习](#markdown语法学习)
     - [基础语法](#基础语法)
