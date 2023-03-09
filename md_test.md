@@ -84,11 +84,11 @@ int main() {
 
 图片展示
 
-![描述](./logo.png)
+![描述](./ball.png)
 
 html展示图片，可以调整显示大小，居中
 <div align="center">
-    <img height=50px src="./logo.png">
+    <img height=50px src="./ball.png">
 </div>
 
 
