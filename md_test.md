@@ -73,7 +73,6 @@ class A:
 ```cpp
 
 # include <iostream>
-
 # incluce <string>
 using namespace std;
 
