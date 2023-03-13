@@ -7,6 +7,7 @@ def bubble_sort(lst):
             if lst[j] < lst[i]:
                 lst[i], lst[j] = lst[j], lst[i]
                 
-lst = 
+
+lst = [5,1,8,4,3,0,9,2,7,6]
 bubble_sort(lst)
 print(lst)
